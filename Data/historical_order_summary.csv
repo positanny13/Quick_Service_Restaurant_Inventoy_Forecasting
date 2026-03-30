@@ -1,0 +1,915 @@
+Item,Supplier,Order made On,Order received On,Lead Time,Quantity,Cost/unit
+Potatoes,Batata & Co.,23-12-2011,30-12-2011,7,"42,752",29
+Potatoes,Batata Batata Men,20-12-2011,28-12-2011,8,"16,291",31
+Potatoes,Aluwahlia & Sons,17-12-2011,24-12-2011,7,"43,326",28
+Potatoes,Batata & Co.,30-12-2011,6/1/2012,7,"12,805",30
+Potatoes,Batata Batata Men,27-12-2011,2/1/2012,6,"16,527",31
+Potatoes,Aluwahlia & Sons,24-12-2011,1/1/2012,8,"16,322",28
+Potatoes,Batata & Co.,6/1/2012,12/1/2012,6,"38,302",32
+Potatoes,Batata Batata Men,3/1/2012,10/1/2012,7,"56,681",31
+Potatoes,Aluwahlia & Sons,31-12-2011,8/1/2012,8,"17,555",28
+Potatoes,Batata & Co.,13-01-2012,19-01-2012,6,"50,062",30
+Potatoes,Batata Batata Men,10/1/2012,17-01-2012,7,"26,504",29
+Potatoes,Aluwahlia & Sons,7/1/2012,16-01-2012,9,"61,919",29
+Potatoes,Batata & Co.,20-01-2012,25-01-2012,5,"27,333",31
+Potatoes,Batata Batata Men,17-01-2012,23-01-2012,6,"20,571",31
+Potatoes,Aluwahlia & Sons,14-01-2012,23-01-2012,9,"45,499",31
+Potatoes,Batata & Co.,27-01-2012,1/2/2012,5,"29,296",29
+Potatoes,Batata Batata Men,24-01-2012,31-01-2012,7,"26,104",31
+Potatoes,Aluwahlia & Sons,21-01-2012,30-01-2012,9,"39,177",32
+Potatoes,Batata & Co.,3/2/2012,10/2/2012,7,"27,462",31
+Potatoes,Batata Batata Men,31-01-2012,8/2/2012,8,"30,345",31
+Potatoes,Aluwahlia & Sons,28-01-2012,5/2/2012,8,"45,627",30
+Potatoes,Batata & Co.,10/2/2012,16-02-2012,6,"41,336",29
+Potatoes,Batata Batata Men,7/2/2012,13-02-2012,6,"30,511",32
+Potatoes,Aluwahlia & Sons,4/2/2012,11/2/2012,7,"27,440",29
+Potatoes,Batata & Co.,17-02-2012,23-02-2012,6,"31,824",29
+Potatoes,Batata Batata Men,14-02-2012,20-02-2012,6,"45,374",31
+Potatoes,Aluwahlia & Sons,11/2/2012,18-02-2012,7,"32,204",31
+Potatoes,Batata & Co.,24-02-2012,2/3/2012,7,"25,560",30
+Potatoes,Batata Batata Men,21-02-2012,28-02-2012,7,"45,293",32
+Potatoes,Aluwahlia & Sons,18-02-2012,26-02-2012,8,"34,959",31
+Potatoes,Batata & Co.,2/3/2012,8/3/2012,6,"53,060",32
+Potatoes,Batata Batata Men,28-02-2012,7/3/2012,8,"33,560",28
+Potatoes,Aluwahlia & Sons,25-02-2012,4/3/2012,8,"25,758",28
+Potatoes,Batata & Co.,9/3/2012,15-03-2012,6,"14,094",28
+Potatoes,Batata Batata Men,6/3/2012,12/3/2012,6,"16,673",31
+Potatoes,Aluwahlia & Sons,3/3/2012,11/3/2012,8,"79,984",28
+Potatoes,Batata & Co.,16-03-2012,22-03-2012,6,"45,290",32
+Potatoes,Batata Batata Men,13-03-2012,19-03-2012,6,"19,170",32
+Potatoes,Aluwahlia & Sons,10/3/2012,19-03-2012,9,"47,860",31
+Potatoes,Batata & Co.,23-03-2012,28-03-2012,5,"26,115",28
+Potatoes,Batata Batata Men,20-03-2012,26-03-2012,6,"57,963",32
+Potatoes,Aluwahlia & Sons,17-03-2012,26-03-2012,9,"30,170",30
+Potatoes,Batata & Co.,30-03-2012,6/4/2012,7,"50,064",30
+Potatoes,Batata Batata Men,27-03-2012,2/4/2012,6,"43,530",32
+Potatoes,Aluwahlia & Sons,24-03-2012,1/4/2012,8,"11,349",28
+Potatoes,Batata & Co.,6/4/2012,11/4/2012,5,"37,438",28
+Potatoes,Batata Batata Men,3/4/2012,9/4/2012,6,"35,349",28
+Potatoes,Aluwahlia & Sons,31-03-2012,8/4/2012,8,"39,040",30
+Potatoes,Batata & Co.,13-04-2012,19-04-2012,6,"17,622",32
+Potatoes,Batata Batata Men,10/4/2012,18-04-2012,8,"51,106",30
+Potatoes,Aluwahlia & Sons,7/4/2012,16-04-2012,9,"43,315",28
+Potatoes,Batata & Co.,20-04-2012,26-04-2012,6,"21,571",28
+Potatoes,Batata Batata Men,17-04-2012,25-04-2012,8,"36,730",29
+Potatoes,Aluwahlia & Sons,14-04-2012,22-04-2012,8,"16,009",30
+Potatoes,Batata & Co.,27-04-2012,3/5/2012,6,"33,436",28
+Potatoes,Batata Batata Men,24-04-2012,30-04-2012,6,"49,374",28
+Potatoes,Aluwahlia & Sons,21-04-2012,28-04-2012,7,"17,711",28
+Potatoes,Batata & Co.,4/5/2012,9/5/2012,5,"16,959",28
+Potatoes,Batata Batata Men,1/5/2012,7/5/2012,6,"34,993",31
+Potatoes,Aluwahlia & Sons,28-04-2012,7/5/2012,9,"44,227",29
+Potatoes,Batata & Co.,11/5/2012,18-05-2012,7,"43,452",31
+Potatoes,Batata Batata Men,8/5/2012,15-05-2012,7,"30,475",29
+Potatoes,Aluwahlia & Sons,5/5/2012,14-05-2012,9,"26,374",28
+Potatoes,Batata & Co.,18-05-2012,25-05-2012,7,"24,659",31
+Potatoes,Batata Batata Men,15-05-2012,23-05-2012,8,"38,314",31
+Potatoes,Aluwahlia & Sons,12/5/2012,19-05-2012,7,"31,251",32
+Potatoes,Batata & Co.,25-05-2012,30-05-2012,5,"20,022",29
+Potatoes,Batata Batata Men,22-05-2012,28-05-2012,6,"20,623",31
+Potatoes,Aluwahlia & Sons,19-05-2012,26-05-2012,7,"63,033",32
+Potatoes,Batata & Co.,1/6/2012,6/6/2012,5,"28,362",30
+Potatoes,Batata Batata Men,29-05-2012,6/6/2012,8,"17,976",29
+Potatoes,Aluwahlia & Sons,26-05-2012,3/6/2012,8,"65,926",32
+Potatoes,Batata & Co.,8/6/2012,15-06-2012,7,"28,537",30
+Potatoes,Batata Batata Men,5/6/2012,11/6/2012,6,"34,609",30
+Potatoes,Aluwahlia & Sons,2/6/2012,11/6/2012,9,"59,853",30
+Potatoes,Batata & Co.,15-06-2012,20-06-2012,5,"66,420",30
+Potatoes,Batata Batata Men,12/6/2012,18-06-2012,6,"32,747",31
+Potatoes,Aluwahlia & Sons,9/6/2012,16-06-2012,7,"41,141",30
+Potatoes,Batata & Co.,22-06-2012,28-06-2012,6,"42,301",31
+Potatoes,Batata Batata Men,19-06-2012,27-06-2012,8,"39,797",29
+Potatoes,Aluwahlia & Sons,16-06-2012,25-06-2012,9,"78,580",32
+Potatoes,Batata & Co.,29-06-2012,5/7/2012,6,"32,163",31
+Potatoes,Batata Batata Men,26-06-2012,2/7/2012,6,"34,896",31
+Potatoes,Aluwahlia & Sons,23-06-2012,30-06-2012,7,"79,501",31
+Potatoes,Batata & Co.,6/7/2012,11/7/2012,5,"53,696",32
+Potatoes,Batata Batata Men,3/7/2012,10/7/2012,7,"62,445",30
+Potatoes,Aluwahlia & Sons,30-06-2012,7/7/2012,7,"28,146",32
+Potatoes,Batata & Co.,13-07-2012,18-07-2012,5,"14,123",32
+Potatoes,Batata Batata Men,10/7/2012,16-07-2012,6,"63,188",29
+Potatoes,Aluwahlia & Sons,7/7/2012,14-07-2012,7,"65,870",31
+Potatoes,Batata & Co.,20-07-2012,26-07-2012,6,"55,116",32
+Potatoes,Batata Batata Men,17-07-2012,23-07-2012,6,"76,041",30
+Potatoes,Aluwahlia & Sons,14-07-2012,23-07-2012,9,"29,247",29
+Potatoes,Batata & Co.,27-07-2012,1/8/2012,5,"39,383",29
+Potatoes,Batata Batata Men,24-07-2012,1/8/2012,8,"36,658",28
+Potatoes,Aluwahlia & Sons,21-07-2012,30-07-2012,9,"77,918",30
+Potatoes,Batata & Co.,3/8/2012,8/8/2012,5,"77,827",31
+Potatoes,Batata Batata Men,31-07-2012,8/8/2012,8,"29,585",28
+Potatoes,Aluwahlia & Sons,28-07-2012,4/8/2012,7,"53,779",28
+Potatoes,Batata & Co.,10/8/2012,15-08-2012,5,"35,507",30
+Potatoes,Batata Batata Men,7/8/2012,13-08-2012,6,"32,554",29
+Potatoes,Aluwahlia & Sons,4/8/2012,13-08-2012,9,"59,224",29
+Potatoes,Batata & Co.,17-08-2012,24-08-2012,7,"16,796",28
+Potatoes,Batata Batata Men,14-08-2012,20-08-2012,6,"58,847",28
+Potatoes,Aluwahlia & Sons,11/8/2012,18-08-2012,7,"46,180",30
+Potatoes,Batata & Co.,24-08-2012,30-08-2012,6,"35,501",31
+Potatoes,Batata Batata Men,21-08-2012,28-08-2012,7,"11,290",31
+Potatoes,Aluwahlia & Sons,18-08-2012,26-08-2012,8,"48,225",31
+Potatoes,Batata & Co.,31-08-2012,5/9/2012,5,"45,031",31
+Potatoes,Batata Batata Men,28-08-2012,4/9/2012,7,"33,492",30
+Potatoes,Aluwahlia & Sons,25-08-2012,1/9/2012,7,"36,278",28
+Potatoes,Batata & Co.,7/9/2012,13-09-2012,6,"19,743",31
+Potatoes,Batata Batata Men,4/9/2012,10/9/2012,6,"22,816",29
+Potatoes,Aluwahlia & Sons,1/9/2012,10/9/2012,9,"71,611",31
+Potatoes,Batata & Co.,14-09-2012,20-09-2012,6,"45,652",28
+Potatoes,Batata Batata Men,11/9/2012,19-09-2012,8,"44,254",30
+Potatoes,Aluwahlia & Sons,8/9/2012,15-09-2012,7,"11,612",30
+Potatoes,Batata & Co.,21-09-2012,26-09-2012,5,"48,621",29
+Potatoes,Batata Batata Men,18-09-2012,24-09-2012,6,"35,884",29
+Potatoes,Aluwahlia & Sons,15-09-2012,22-09-2012,7,"20,056",28
+Potatoes,Batata & Co.,28-09-2012,5/10/2012,7,"19,784",32
+Potatoes,Batata Batata Men,25-09-2012,1/10/2012,6,"18,642",32
+Potatoes,Aluwahlia & Sons,22-09-2012,29-09-2012,7,"55,451",28
+Potatoes,Batata & Co.,5/10/2012,12/10/2012,7,"49,223",28
+Potatoes,Batata Batata Men,2/10/2012,8/10/2012,6,"35,183",31
+Potatoes,Aluwahlia & Sons,29-09-2012,8/10/2012,9,"15,622",31
+Potatoes,Batata & Co.,12/10/2012,19-10-2012,7,"20,713",32
+Potatoes,Batata Batata Men,9/10/2012,15-10-2012,6,"34,065",30
+Potatoes,Aluwahlia & Sons,6/10/2012,14-10-2012,8,"41,576",30
+Potatoes,Batata & Co.,19-10-2012,24-10-2012,5,"32,936",29
+Potatoes,Batata Batata Men,16-10-2012,24-10-2012,8,"20,745",32
+Potatoes,Aluwahlia & Sons,13-10-2012,21-10-2012,8,"45,953",28
+Potatoes,Batata & Co.,26-10-2012,31-10-2012,5,"21,157",28
+Potatoes,Batata Batata Men,23-10-2012,29-10-2012,6,"39,834",32
+Potatoes,Aluwahlia & Sons,20-10-2012,29-10-2012,9,"76,043",30
+Potatoes,Batata & Co.,2/11/2012,9/11/2012,7,"28,267",29
+Potatoes,Batata Batata Men,30-10-2012,7/11/2012,8,"39,892",30
+Potatoes,Aluwahlia & Sons,27-10-2012,5/11/2012,9,"34,239",32
+Potatoes,Batata & Co.,9/11/2012,16-11-2012,7,"44,163",30
+Potatoes,Batata Batata Men,6/11/2012,12/11/2012,6,"13,660",31
+Potatoes,Aluwahlia & Sons,3/11/2012,11/11/2012,8,"35,268",29
+Potatoes,Batata & Co.,16-11-2012,21-11-2012,5,"37,634",29
+Potatoes,Batata Batata Men,13-11-2012,19-11-2012,6,"24,229",31
+Potatoes,Aluwahlia & Sons,10/11/2012,19-11-2012,9,"34,130",30
+Potatoes,Batata & Co.,23-11-2012,29-11-2012,6,"46,964",29
+Potatoes,Batata Batata Men,20-11-2012,27-11-2012,7,"18,530",31
+Potatoes,Aluwahlia & Sons,17-11-2012,24-11-2012,7,"29,627",30
+Potatoes,Batata & Co.,30-11-2012,6/12/2012,6,"17,747",30
+Potatoes,Batata Batata Men,27-11-2012,4/12/2012,7,"16,177",29
+Potatoes,Aluwahlia & Sons,24-11-2012,2/12/2012,8,"11,353",32
+Potatoes,Batata & Co.,7/12/2012,13-12-2012,6,"46,626",30
+Potatoes,Batata Batata Men,4/12/2012,12/12/2012,8,"53,325",29
+Potatoes,Aluwahlia & Sons,1/12/2012,10/12/2012,9,"11,910",29
+Potatoes,Batata & Co.,14-12-2012,21-12-2012,7,"28,764",32
+Potatoes,Batata Batata Men,11/12/2012,18-12-2012,7,"14,617",31
+Potatoes,Aluwahlia & Sons,8/12/2012,15-12-2012,7,"49,072",32
+Potatoes,Batata & Co.,21-12-2012,26-12-2012,5,"32,269",28
+Potatoes,Batata Batata Men,18-12-2012,26-12-2012,8,"24,589",30
+Potatoes,Aluwahlia & Sons,15-12-2012,23-12-2012,8,"40,425",29
+Potatoes,Batata & Co.,28-12-2012,3/1/2013,6,"22,879",29
+Potatoes,Batata Batata Men,25-12-2012,2/1/2013,8,"52,271",28
+Potatoes,Aluwahlia & Sons,22-12-2012,29-12-2012,7,"34,595",29
+Potatoes,Batata & Co.,4/1/2013,11/1/2013,7,"28,809",32
+Potatoes,Batata Batata Men,1/1/2013,8/1/2013,7,"18,366",29
+Potatoes,Aluwahlia & Sons,29-12-2012,7/1/2013,9,"70,782",31
+Potatoes,Batata & Co.,11/1/2013,18-01-2013,7,"41,283",28
+Potatoes,Batata Batata Men,8/1/2013,16-01-2013,8,"22,930",29
+Potatoes,Aluwahlia & Sons,5/1/2013,14-01-2013,9,"75,548",32
+Potatoes,Batata & Co.,18-01-2013,25-01-2013,7,"14,061",31
+Potatoes,Batata Batata Men,15-01-2013,21-01-2013,6,"35,180",30
+Potatoes,Aluwahlia & Sons,12/1/2013,20-01-2013,8,"42,725",32
+Potatoes,Batata & Co.,25-01-2013,1/2/2013,7,"21,659",30
+Potatoes,Batata Batata Men,22-01-2013,29-01-2013,7,"25,464",31
+Potatoes,Aluwahlia & Sons,19-01-2013,26-01-2013,7,"69,025",28
+Potatoes,Batata & Co.,1/2/2013,6/2/2013,5,"26,128",29
+Potatoes,Batata Batata Men,29-01-2013,4/2/2013,6,"48,530",30
+Potatoes,Aluwahlia & Sons,26-01-2013,2/2/2013,7,"27,437",30
+Potatoes,Batata & Co.,8/2/2013,13-02-2013,5,"43,169",28
+Potatoes,Batata Batata Men,5/2/2013,12/2/2013,7,"43,202",31
+Potatoes,Aluwahlia & Sons,2/2/2013,11/2/2013,9,"12,944",31
+Potatoes,Batata & Co.,15-02-2013,21-02-2013,6,"43,510",29
+Potatoes,Batata Batata Men,12/2/2013,20-02-2013,8,"33,156",31
+Potatoes,Aluwahlia & Sons,9/2/2013,18-02-2013,9,"21,199",30
+Potatoes,Batata & Co.,22-02-2013,1/3/2013,7,"29,900",32
+Potatoes,Batata Batata Men,19-02-2013,25-02-2013,6,"19,978",31
+Potatoes,Aluwahlia & Sons,16-02-2013,25-02-2013,9,"46,465",31
+Potatoes,Batata & Co.,1/3/2013,7/3/2013,6,"22,586",32
+Potatoes,Batata Batata Men,26-02-2013,4/3/2013,6,"53,915",32
+Potatoes,Aluwahlia & Sons,23-02-2013,4/3/2013,9,"36,277",31
+Potatoes,Batata & Co.,8/3/2013,15-03-2013,7,"12,807",29
+Potatoes,Batata Batata Men,5/3/2013,13-03-2013,8,"43,101",32
+Potatoes,Aluwahlia & Sons,2/3/2013,11/3/2013,9,"48,493",28
+Potatoes,Batata & Co.,15-03-2013,22-03-2013,7,"40,979",28
+Potatoes,Batata Batata Men,12/3/2013,19-03-2013,7,"46,853",28
+Potatoes,Aluwahlia & Sons,9/3/2013,16-03-2013,7,"20,669",31
+Potatoes,Batata & Co.,22-03-2013,27-03-2013,5,"14,751",28
+Potatoes,Batata Batata Men,19-03-2013,27-03-2013,8,"33,075",30
+Potatoes,Aluwahlia & Sons,16-03-2013,23-03-2013,7,"52,165",31
+Potatoes,Batata & Co.,29-03-2013,3/4/2013,5,"36,060",31
+Potatoes,Batata Batata Men,26-03-2013,3/4/2013,8,"41,939",31
+Potatoes,Aluwahlia & Sons,23-03-2013,31-03-2013,8,"28,573",31
+Potatoes,Batata & Co.,5/4/2013,10/4/2013,5,"46,570",30
+Potatoes,Batata Batata Men,2/4/2013,8/4/2013,6,"47,138",32
+Potatoes,Aluwahlia & Sons,30-03-2013,7/4/2013,8,"16,730",30
+Potatoes,Batata & Co.,12/4/2013,18-04-2013,6,"20,880",28
+Potatoes,Batata Batata Men,9/4/2013,15-04-2013,6,"21,416",29
+Potatoes,Aluwahlia & Sons,6/4/2013,14-04-2013,8,"34,553",28
+Potatoes,Batata & Co.,19-04-2013,26-04-2013,7,"47,147",30
+Potatoes,Batata Batata Men,16-04-2013,24-04-2013,8,"17,680",30
+Potatoes,Aluwahlia & Sons,13-04-2013,20-04-2013,7,"49,063",30
+Potatoes,Batata & Co.,26-04-2013,2/5/2013,6,"23,686",29
+Potatoes,Batata Batata Men,23-04-2013,29-04-2013,6,"12,466",28
+Potatoes,Aluwahlia & Sons,20-04-2013,28-04-2013,8,"67,652",32
+Potatoes,Batata & Co.,3/5/2013,10/5/2013,7,"37,979",30
+Potatoes,Batata Batata Men,30-04-2013,8/5/2013,8,"15,774",28
+Potatoes,Aluwahlia & Sons,27-04-2013,4/5/2013,7,"40,367",30
+Potatoes,Batata & Co.,10/5/2013,17-05-2013,7,"22,501",30
+Potatoes,Batata Batata Men,7/5/2013,14-05-2013,7,"38,922",31
+Potatoes,Aluwahlia & Sons,4/5/2013,11/5/2013,7,"40,498",30
+Potatoes,Batata & Co.,17-05-2013,24-05-2013,7,"51,510",30
+Potatoes,Batata Batata Men,14-05-2013,20-05-2013,6,"14,999",31
+Potatoes,Aluwahlia & Sons,11/5/2013,20-05-2013,9,"45,479",31
+Potatoes,Batata & Co.,24-05-2013,30-05-2013,6,"31,590",32
+Potatoes,Batata Batata Men,21-05-2013,29-05-2013,8,"30,443",28
+Potatoes,Aluwahlia & Sons,18-05-2013,26-05-2013,8,"34,840",30
+,,,,,,
+,,,,,,
+,,,,,,
+Item,Supplier,Order made On,Order received On,Lead Time,Quantity,Cost/unit
+Chillies,Munni Mirchi,26-12-2011,1/1/2012,6,"50,170",25
+Chillies,Mirch Masala,29-12-2011,1/1/2012,3,"90,223",26
+Chillies,Chilly Chameli,23-12-2011,1/1/2012,9,"56,326",23
+Chillies,Munni Mirchi,2/1/2012,7/1/2012,5,"37,662",27
+Chillies,Mirch Masala,5/1/2012,10/1/2012,5,"28,001",25
+Chillies,Chilly Chameli,30-12-2011,11/1/2012,12,"30,065",25
+Chillies,Munni Mirchi,9/1/2012,16-01-2012,7,"86,794",26
+Chillies,Mirch Masala,12/1/2012,17-01-2012,5,"51,463",24
+Chillies,Chilly Chameli,6/1/2012,15-01-2012,9,"84,397",23
+Chillies,Munni Mirchi,16-01-2012,21-01-2012,5,"42,148",27
+Chillies,Mirch Masala,19-01-2012,24-01-2012,5,"43,891",24
+Chillies,Chilly Chameli,13-01-2012,25-01-2012,12,"1,20,000",23
+Chillies,Munni Mirchi,23-01-2012,30-01-2012,7,"38,317",24
+Chillies,Mirch Masala,26-01-2012,29-01-2012,3,"40,218",23
+Chillies,Chilly Chameli,20-01-2012,30-01-2012,10,"1,11,201",23
+Chillies,Munni Mirchi,30-01-2012,7/2/2012,8,"26,473",24
+Chillies,Mirch Masala,2/2/2012,5/2/2012,3,"92,269",24
+Chillies,Chilly Chameli,27-01-2012,6/2/2012,10,"66,467",24
+Chillies,Munni Mirchi,6/2/2012,12/2/2012,6,"24,990",23
+Chillies,Mirch Masala,9/2/2012,12/2/2012,3,"78,153",25
+Chillies,Chilly Chameli,3/2/2012,12/2/2012,9,"1,06,095",23
+Chillies,Munni Mirchi,13-02-2012,19-02-2012,6,"67,091",24
+Chillies,Mirch Masala,16-02-2012,20-02-2012,4,"52,564",23
+Chillies,Chilly Chameli,10/2/2012,21-02-2012,11,"72,814",27
+Chillies,Munni Mirchi,20-02-2012,27-02-2012,7,"41,410",23
+Chillies,Mirch Masala,23-02-2012,26-02-2012,3,"1,13,895",25
+Chillies,Chilly Chameli,17-02-2012,26-02-2012,9,"80,695",24
+Chillies,Munni Mirchi,27-02-2012,3/3/2012,5,"49,277",24
+Chillies,Mirch Masala,1/3/2012,4/3/2012,3,"39,483",26
+Chillies,Chilly Chameli,24-02-2012,6/3/2012,11,"1,20,000",25
+Chillies,Munni Mirchi,5/3/2012,13-03-2012,8,"39,262",27
+Chillies,Mirch Masala,8/3/2012,13-03-2012,5,"76,808",27
+Chillies,Chilly Chameli,2/3/2012,12/3/2012,10,"1,09,105",23
+Chillies,Munni Mirchi,12/3/2012,17-03-2012,5,"50,077",25
+Chillies,Mirch Masala,15-03-2012,18-03-2012,3,"73,058",27
+Chillies,Chilly Chameli,9/3/2012,21-03-2012,12,"1,02,416",27
+Chillies,Munni Mirchi,19-03-2012,25-03-2012,6,"95,577",27
+Chillies,Mirch Masala,22-03-2012,26-03-2012,4,"1,09,930",24
+Chillies,Chilly Chameli,16-03-2012,25-03-2012,9,"23,744",24
+Chillies,Munni Mirchi,26-03-2012,31-03-2012,5,"49,381",27
+Chillies,Mirch Masala,29-03-2012,1/4/2012,3,"73,995",25
+Chillies,Chilly Chameli,23-03-2012,4/4/2012,12,"1,00,834",23
+Chillies,Munni Mirchi,2/4/2012,8/4/2012,6,"74,527",25
+Chillies,Mirch Masala,5/4/2012,8/4/2012,3,"39,861",24
+Chillies,Chilly Chameli,30-03-2012,8/4/2012,9,"81,637",27
+Chillies,Munni Mirchi,9/4/2012,16-04-2012,7,"85,437",27
+Chillies,Mirch Masala,12/4/2012,17-04-2012,5,"68,214",25
+Chillies,Chilly Chameli,6/4/2012,15-04-2012,9,"58,768",23
+Chillies,Munni Mirchi,16-04-2012,22-04-2012,6,"55,351",24
+Chillies,Mirch Masala,19-04-2012,22-04-2012,3,"43,653",23
+Chillies,Chilly Chameli,13-04-2012,23-04-2012,10,"1,20,000",27
+Chillies,Munni Mirchi,23-04-2012,30-04-2012,7,"33,651",23
+Chillies,Mirch Masala,26-04-2012,1/5/2012,5,"56,340",24
+Chillies,Chilly Chameli,20-04-2012,30-04-2012,10,"62,769",26
+Chillies,Munni Mirchi,30-04-2012,5/5/2012,5,"56,908",23
+Chillies,Mirch Masala,3/5/2012,8/5/2012,5,"39,157",27
+Chillies,Chilly Chameli,27-04-2012,8/5/2012,11,"1,03,054",23
+Chillies,Munni Mirchi,7/5/2012,15-05-2012,8,"31,943",27
+Chillies,Mirch Masala,10/5/2012,15-05-2012,5,"31,947",25
+Chillies,Chilly Chameli,4/5/2012,15-05-2012,11,"1,18,955",27
+Chillies,Munni Mirchi,14-05-2012,21-05-2012,7,"47,810",24
+Chillies,Mirch Masala,17-05-2012,22-05-2012,5,"32,693",24
+Chillies,Chilly Chameli,11/5/2012,21-05-2012,10,"1,15,455",25
+Chillies,Munni Mirchi,21-05-2012,27-05-2012,6,"70,220",25
+Chillies,Mirch Masala,24-05-2012,27-05-2012,3,"80,194",23
+Chillies,Chilly Chameli,18-05-2012,27-05-2012,9,"39,727",26
+Chillies,Munni Mirchi,28-05-2012,5/6/2012,8,"94,114",23
+Chillies,Mirch Masala,31-05-2012,4/6/2012,4,"36,232",25
+Chillies,Chilly Chameli,25-05-2012,4/6/2012,10,"66,545",25
+Chillies,Munni Mirchi,4/6/2012,9/6/2012,5,"62,158",23
+Chillies,Mirch Masala,7/6/2012,10/6/2012,3,"31,499",26
+Chillies,Chilly Chameli,1/6/2012,11/6/2012,10,"1,20,000",25
+Chillies,Munni Mirchi,11/6/2012,19-06-2012,8,"73,021",24
+Chillies,Mirch Masala,14-06-2012,17-06-2012,3,"1,16,313",26
+Chillies,Chilly Chameli,8/6/2012,20-06-2012,12,"57,316",24
+Chillies,Munni Mirchi,18-06-2012,25-06-2012,7,"64,873",26
+Chillies,Mirch Masala,21-06-2012,25-06-2012,4,"58,196",24
+Chillies,Chilly Chameli,15-06-2012,26-06-2012,11,"1,20,000",24
+Chillies,Munni Mirchi,25-06-2012,1/7/2012,6,"1,59,593",24
+Chillies,Mirch Masala,28-06-2012,1/7/2012,3,"1,20,000",23
+Chillies,Chilly Chameli,22-06-2012,1/7/2012,9,"24,355",24
+Chillies,Munni Mirchi,2/7/2012,10/7/2012,8,"81,496",24
+Chillies,Mirch Masala,5/7/2012,9/7/2012,4,"67,160",24
+Chillies,Chilly Chameli,29-06-2012,9/7/2012,10,"1,20,000",25
+Chillies,Munni Mirchi,9/7/2012,16-07-2012,7,"56,776",27
+Chillies,Mirch Masala,12/7/2012,17-07-2012,5,"1,20,000",26
+Chillies,Chilly Chameli,6/7/2012,18-07-2012,12,"1,13,235",26
+Chillies,Munni Mirchi,16-07-2012,24-07-2012,8,"31,494",27
+Chillies,Mirch Masala,19-07-2012,22-07-2012,3,"1,20,000",27
+Chillies,Chilly Chameli,13-07-2012,22-07-2012,9,"1,20,000",24
+Chillies,Munni Mirchi,23-07-2012,28-07-2012,5,"1,38,166",24
+Chillies,Mirch Masala,26-07-2012,30-07-2012,4,"52,942",25
+Chillies,Chilly Chameli,20-07-2012,29-07-2012,9,"1,20,000",23
+Chillies,Munni Mirchi,30-07-2012,4/8/2012,5,"82,166",25
+Chillies,Mirch Masala,2/8/2012,7/8/2012,5,"1,20,000",23
+Chillies,Chilly Chameli,27-07-2012,5/8/2012,9,"91,585",25
+Chillies,Munni Mirchi,6/8/2012,11/8/2012,5,"1,15,886",26
+Chillies,Mirch Masala,9/8/2012,13-08-2012,4,"36,482",27
+Chillies,Chilly Chameli,3/8/2012,13-08-2012,10,"1,20,000",25
+Chillies,Munni Mirchi,13-08-2012,21-08-2012,8,"37,807",27
+Chillies,Mirch Masala,16-08-2012,19-08-2012,3,"52,587",27
+Chillies,Chilly Chameli,10/8/2012,19-08-2012,9,"1,20,000",24
+Chillies,Munni Mirchi,20-08-2012,25-08-2012,5,"1,06,663",25
+Chillies,Mirch Masala,23-08-2012,26-08-2012,3,"86,710",25
+Chillies,Chilly Chameli,17-08-2012,26-08-2012,9,"45,867",24
+Chillies,Munni Mirchi,27-08-2012,1/9/2012,5,"41,721",26
+Chillies,Mirch Masala,30-08-2012,3/9/2012,4,"42,661",26
+Chillies,Chilly Chameli,24-08-2012,3/9/2012,10,"1,07,611",23
+Chillies,Munni Mirchi,3/9/2012,8/9/2012,5,"25,639",26
+Chillies,Mirch Masala,6/9/2012,10/9/2012,4,"51,344",24
+Chillies,Chilly Chameli,31-08-2012,12/9/2012,12,"1,20,000",27
+Chillies,Munni Mirchi,10/9/2012,16-09-2012,6,"39,691",27
+Chillies,Mirch Masala,13-09-2012,18-09-2012,5,"58,975",27
+Chillies,Chilly Chameli,7/9/2012,18-09-2012,11,"1,20,000",25
+Chillies,Munni Mirchi,17-09-2012,24-09-2012,7,"59,943",26
+Chillies,Mirch Masala,20-09-2012,24-09-2012,4,"1,04,738",25
+Chillies,Chilly Chameli,14-09-2012,24-09-2012,10,"50,444",23
+Chillies,Munni Mirchi,24-09-2012,2/10/2012,8,"80,801",26
+Chillies,Mirch Masala,27-09-2012,1/10/2012,4,"59,652",23
+Chillies,Chilly Chameli,21-09-2012,2/10/2012,11,"60,025",26
+Chillies,Munni Mirchi,1/10/2012,7/10/2012,6,"68,139",25
+Chillies,Mirch Masala,4/10/2012,7/10/2012,3,"1,00,066",24
+Chillies,Chilly Chameli,28-09-2012,10/10/2012,12,"30,425",24
+Chillies,Munni Mirchi,8/10/2012,16-10-2012,8,"25,294",27
+Chillies,Mirch Masala,11/10/2012,14-10-2012,3,"73,556",24
+Chillies,Chilly Chameli,5/10/2012,17-10-2012,12,"1,01,591",26
+Chillies,Munni Mirchi,15-10-2012,21-10-2012,6,"36,557",24
+Chillies,Mirch Masala,18-10-2012,23-10-2012,5,"39,156",26
+Chillies,Chilly Chameli,12/10/2012,21-10-2012,9,"1,14,802",27
+Chillies,Munni Mirchi,22-10-2012,29-10-2012,7,"54,568",24
+Chillies,Mirch Masala,25-10-2012,29-10-2012,4,"52,124",27
+Chillies,Chilly Chameli,19-10-2012,31-10-2012,12,"87,851",26
+Chillies,Munni Mirchi,29-10-2012,5/11/2012,7,"31,197",25
+Chillies,Mirch Masala,1/11/2012,6/11/2012,5,"1,14,179",27
+Chillies,Chilly Chameli,26-10-2012,7/11/2012,12,"1,20,000",24
+Chillies,Munni Mirchi,5/11/2012,13-11-2012,8,"54,594",24
+Chillies,Mirch Masala,8/11/2012,11/11/2012,3,"92,896",27
+Chillies,Chilly Chameli,2/11/2012,13-11-2012,11,"64,111",27
+Chillies,Munni Mirchi,12/11/2012,17-11-2012,5,"62,967",23
+Chillies,Mirch Masala,15-11-2012,19-11-2012,4,"79,080",23
+Chillies,Chilly Chameli,9/11/2012,19-11-2012,10,"48,180",27
+Chillies,Munni Mirchi,19-11-2012,25-11-2012,6,"71,421",25
+Chillies,Mirch Masala,22-11-2012,26-11-2012,4,"90,297",24
+Chillies,Chilly Chameli,16-11-2012,28-11-2012,12,"30,737",25
+Chillies,Munni Mirchi,26-11-2012,2/12/2012,6,"52,272",23
+Chillies,Mirch Masala,29-11-2012,2/12/2012,3,"72,775",25
+Chillies,Chilly Chameli,23-11-2012,5/12/2012,12,"76,509",23
+Chillies,Munni Mirchi,3/12/2012,8/12/2012,5,"29,352",27
+Chillies,Mirch Masala,6/12/2012,11/12/2012,5,"22,679",24
+Chillies,Chilly Chameli,30-11-2012,10/12/2012,10,"35,596",26
+Chillies,Munni Mirchi,10/12/2012,17-12-2012,7,"26,585",25
+Chillies,Mirch Masala,13-12-2012,16-12-2012,3,"1,03,206",23
+Chillies,Chilly Chameli,7/12/2012,19-12-2012,12,"98,809",26
+Chillies,Munni Mirchi,17-12-2012,25-12-2012,8,"36,585",23
+Chillies,Mirch Masala,20-12-2012,24-12-2012,4,"89,497",27
+Chillies,Chilly Chameli,14-12-2012,25-12-2012,11,"70,276",23
+Chillies,Munni Mirchi,24-12-2012,31-12-2012,7,"71,514",27
+Chillies,Mirch Masala,27-12-2012,31-12-2012,4,"83,243",23
+Chillies,Chilly Chameli,21-12-2012,31-12-2012,10,"35,666",25
+Chillies,Munni Mirchi,31-12-2012,8/1/2013,8,"32,227",26
+Chillies,Mirch Masala,3/1/2013,8/1/2013,5,"58,234",25
+Chillies,Chilly Chameli,28-12-2012,6/1/2013,9,"1,20,000",25
+Chillies,Munni Mirchi,7/1/2013,13-01-2013,6,"99,587",24
+Chillies,Mirch Masala,10/1/2013,14-01-2013,4,"1,15,276",25
+Chillies,Chilly Chameli,4/1/2013,14-01-2013,10,"24,085",25
+Chillies,Munni Mirchi,14-01-2013,21-01-2013,7,"1,03,134",24
+Chillies,Mirch Masala,17-01-2013,20-01-2013,3,"1,20,000",27
+Chillies,Chilly Chameli,11/1/2013,20-01-2013,9,"39,044",23
+Chillies,Munni Mirchi,21-01-2013,29-01-2013,8,"70,108",24
+Chillies,Mirch Masala,24-01-2013,28-01-2013,4,"50,848",27
+Chillies,Chilly Chameli,18-01-2013,27-01-2013,9,"68,030",23
+Chillies,Munni Mirchi,28-01-2013,5/2/2013,8,"1,07,459",26
+Chillies,Mirch Masala,31-01-2013,4/2/2013,4,"55,893",24
+Chillies,Chilly Chameli,25-01-2013,4/2/2013,10,"65,683",26
+Chillies,Munni Mirchi,4/2/2013,11/2/2013,7,"83,201",24
+Chillies,Mirch Masala,7/2/2013,12/2/2013,5,"75,041",23
+Chillies,Chilly Chameli,1/2/2013,12/2/2013,11,"47,213",25
+Chillies,Munni Mirchi,11/2/2013,19-02-2013,8,"68,347",23
+Chillies,Mirch Masala,14-02-2013,18-02-2013,4,"34,046",23
+Chillies,Chilly Chameli,8/2/2013,19-02-2013,11,"92,175",23
+Chillies,Munni Mirchi,18-02-2013,24-02-2013,6,"36,713",24
+Chillies,Mirch Masala,21-02-2013,25-02-2013,4,"35,422",23
+Chillies,Chilly Chameli,15-02-2013,26-02-2013,11,"1,20,000",26
+Chillies,Munni Mirchi,25-02-2013,3/3/2013,6,"34,691",24
+Chillies,Mirch Masala,28-02-2013,3/3/2013,3,"48,959",26
+Chillies,Chilly Chameli,22-02-2013,5/3/2013,11,"1,12,295",25
+Chillies,Munni Mirchi,4/3/2013,11/3/2013,7,"30,960",23
+Chillies,Mirch Masala,7/3/2013,10/3/2013,3,"49,163",24
+Chillies,Chilly Chameli,1/3/2013,12/3/2013,11,"1,20,000",25
+Chillies,Munni Mirchi,11/3/2013,17-03-2013,6,"47,074",26
+Chillies,Mirch Masala,14-03-2013,17-03-2013,3,"74,596",27
+Chillies,Chilly Chameli,8/3/2013,17-03-2013,9,"87,279",27
+Chillies,Munni Mirchi,18-03-2013,26-03-2013,8,"1,05,203",23
+Chillies,Mirch Masala,21-03-2013,24-03-2013,3,"1,08,579",26
+Chillies,Chilly Chameli,15-03-2013,24-03-2013,9,"26,124",26
+Chillies,Munni Mirchi,25-03-2013,1/4/2013,7,"34,579",24
+Chillies,Mirch Masala,28-03-2013,31-03-2013,3,"59,131",27
+Chillies,Chilly Chameli,22-03-2013,1/4/2013,10,"1,00,067",25
+Chillies,Munni Mirchi,1/4/2013,9/4/2013,8,"51,072",25
+Chillies,Mirch Masala,4/4/2013,8/4/2013,4,"79,265",27
+Chillies,Chilly Chameli,29-03-2013,9/4/2013,11,"81,712",26
+Chillies,Munni Mirchi,8/4/2013,15-04-2013,7,"94,792",24
+Chillies,Mirch Masala,11/4/2013,16-04-2013,5,"79,115",27
+Chillies,Chilly Chameli,5/4/2013,16-04-2013,11,"33,203",25
+Chillies,Munni Mirchi,15-04-2013,22-04-2013,7,"49,937",25
+Chillies,Mirch Masala,18-04-2013,21-04-2013,3,"66,360",26
+Chillies,Chilly Chameli,12/4/2013,23-04-2013,11,"38,289",27
+Chillies,Munni Mirchi,22-04-2013,29-04-2013,7,"42,674",24
+Chillies,Mirch Masala,25-04-2013,28-04-2013,3,"23,048",25
+Chillies,Chilly Chameli,19-04-2013,28-04-2013,9,"1,20,000",23
+Chillies,Munni Mirchi,29-04-2013,7/5/2013,8,"46,646",23
+Chillies,Mirch Masala,2/5/2013,5/5/2013,3,"70,108",27
+Chillies,Chilly Chameli,26-04-2013,7/5/2013,11,"86,135",23
+Chillies,Munni Mirchi,6/5/2013,13-05-2013,7,"68,270",25
+Chillies,Mirch Masala,9/5/2013,14-05-2013,5,"52,272",24
+Chillies,Chilly Chameli,3/5/2013,15-05-2013,12,"79,632",27
+Chillies,Munni Mirchi,13-05-2013,18-05-2013,5,"47,691",25
+Chillies,Mirch Masala,16-05-2013,21-05-2013,5,"90,878",25
+Chillies,Chilly Chameli,10/5/2013,21-05-2013,11,"70,285",26
+Chillies,Munni Mirchi,20-05-2013,26-05-2013,6,"81,309",24
+Chillies,Mirch Masala,23-05-2013,26-05-2013,3,"88,830",24
+Chillies,Chilly Chameli,17-05-2013,29-05-2013,12,"49,554",27
+Chillies,Munni Mirchi,27-05-2013,1/6/2013,5,"63,213",23
+Chillies,Mirch Masala,30-05-2013,3/6/2013,4,"31,862",24
+Chillies,Chilly Chameli,24-05-2013,2/6/2013,9,"96,153",26
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Item,Supplier,Order made On,Order received On,Lead Time,Quantity,Cost/unit
+Garlic,Lasoon Joshi,26-12-2011,1/1/2012,6,"64,191",9
+Garlic,Poondu Ram,23-12-2011,1/1/2012,9,"30,049",9
+Garlic,Lassie Lasoon,25-12-2011,1/1/2012,7,"98,000",10
+Garlic,Lasoon Joshi,2/1/2012,9/1/2012,7,"30,287",9
+Garlic,Poondu Ram,30-12-2011,8/1/2012,9,"41,967",8
+Garlic,Lassie Lasoon,1/1/2012,10/1/2012,9,"24,712",8
+Garlic,Lasoon Joshi,9/1/2012,16-01-2012,7,"80,904",10
+Garlic,Poondu Ram,6/1/2012,17-01-2012,11,"66,939",9
+Garlic,Lassie Lasoon,8/1/2012,18-01-2012,10,"71,133",9
+Garlic,Lasoon Joshi,16-01-2012,23-01-2012,7,"1,06,274",8
+Garlic,Poondu Ram,13-01-2012,21-01-2012,8,"78,001",8
+Garlic,Lassie Lasoon,15-01-2012,23-01-2012,8,"99,884",9
+Garlic,Lasoon Joshi,23-01-2012,28-01-2012,5,"71,905",9
+Garlic,Poondu Ram,20-01-2012,31-01-2012,11,"78,477",9
+Garlic,Lassie Lasoon,22-01-2012,28-01-2012,6,"40,991",8
+Garlic,Lasoon Joshi,30-01-2012,6/2/2012,7,"25,357",10
+Garlic,Poondu Ram,27-01-2012,5/2/2012,9,"78,789",9
+Garlic,Lassie Lasoon,29-01-2012,4/2/2012,6,"88,532",10
+Garlic,Lasoon Joshi,6/2/2012,12/2/2012,6,"67,975",8
+Garlic,Poondu Ram,3/2/2012,15-02-2012,12,"68,991",8
+Garlic,Lassie Lasoon,5/2/2012,11/2/2012,6,"69,555",9
+Garlic,Lasoon Joshi,13-02-2012,21-02-2012,8,"46,372",10
+Garlic,Poondu Ram,10/2/2012,19-02-2012,9,"59,587",9
+Garlic,Lassie Lasoon,12/2/2012,18-02-2012,6,"88,586",8
+Garlic,Lasoon Joshi,20-02-2012,26-02-2012,6,"44,793",7
+Garlic,Poondu Ram,17-02-2012,28-02-2012,11,"79,690",7
+Garlic,Lassie Lasoon,19-02-2012,27-02-2012,8,"91,600",8
+Garlic,Lasoon Joshi,27-02-2012,6/3/2012,8,"85,653",7
+Garlic,Poondu Ram,24-02-2012,5/3/2012,10,"76,160",8
+Garlic,Lassie Lasoon,26-02-2012,6/3/2012,9,"55,100",9
+Garlic,Lasoon Joshi,5/3/2012,10/3/2012,5,"99,931",10
+Garlic,Poondu Ram,2/3/2012,11/3/2012,9,"61,430",8
+Garlic,Lassie Lasoon,4/3/2012,12/3/2012,8,"69,675",8
+Garlic,Lasoon Joshi,12/3/2012,17-03-2012,5,"81,905",8
+Garlic,Poondu Ram,9/3/2012,17-03-2012,8,"68,157",7
+Garlic,Lassie Lasoon,11/3/2012,19-03-2012,8,"87,572",8
+Garlic,Lasoon Joshi,19-03-2012,27-03-2012,8,"75,655",8
+Garlic,Poondu Ram,16-03-2012,25-03-2012,9,"71,093",9
+Garlic,Lassie Lasoon,18-03-2012,28-03-2012,10,"80,649",7
+Garlic,Lasoon Joshi,26-03-2012,3/4/2012,8,"72,272",7
+Garlic,Poondu Ram,23-03-2012,3/4/2012,11,"78,251",8
+Garlic,Lassie Lasoon,25-03-2012,4/4/2012,10,"94,253",8
+Garlic,Lasoon Joshi,2/4/2012,10/4/2012,8,"62,686",10
+Garlic,Poondu Ram,30-03-2012,11/4/2012,12,"31,408",9
+Garlic,Lassie Lasoon,1/4/2012,9/4/2012,8,"99,033",8
+Garlic,Lasoon Joshi,9/4/2012,17-04-2012,8,"1,02,363",7
+Garlic,Poondu Ram,6/4/2012,14-04-2012,8,"46,154",8
+Garlic,Lassie Lasoon,8/4/2012,18-04-2012,10,"66,228",8
+Garlic,Lasoon Joshi,16-04-2012,21-04-2012,5,"96,588",7
+Garlic,Poondu Ram,13-04-2012,24-04-2012,11,"44,371",8
+Garlic,Lassie Lasoon,15-04-2012,23-04-2012,8,"87,469",7
+Garlic,Lasoon Joshi,23-04-2012,30-04-2012,7,"69,380",10
+Garlic,Poondu Ram,20-04-2012,28-04-2012,8,"58,554",8
+Garlic,Lassie Lasoon,22-04-2012,28-04-2012,6,"24,104",7
+Garlic,Lasoon Joshi,30-04-2012,6/5/2012,6,"85,470",10
+Garlic,Poondu Ram,27-04-2012,9/5/2012,12,"67,580",7
+Garlic,Lassie Lasoon,29-04-2012,6/5/2012,7,"40,773",8
+Garlic,Lasoon Joshi,7/5/2012,12/5/2012,5,"38,717",8
+Garlic,Poondu Ram,4/5/2012,16-05-2012,12,"56,167",8
+Garlic,Lassie Lasoon,6/5/2012,14-05-2012,8,"90,731",9
+Garlic,Lasoon Joshi,14-05-2012,20-05-2012,6,"62,859",10
+Garlic,Poondu Ram,11/5/2012,21-05-2012,10,"64,201",7
+Garlic,Lassie Lasoon,13-05-2012,19-05-2012,6,"65,237",9
+Garlic,Lasoon Joshi,21-05-2012,29-05-2012,8,"32,028",8
+Garlic,Poondu Ram,18-05-2012,27-05-2012,9,"45,830",9
+Garlic,Lassie Lasoon,20-05-2012,26-05-2012,6,"1,19,704",7
+Garlic,Lasoon Joshi,28-05-2012,5/6/2012,8,"28,644",8
+Garlic,Poondu Ram,25-05-2012,2/6/2012,8,"38,122",7
+Garlic,Lassie Lasoon,27-05-2012,6/6/2012,10,"1,20,000",8
+Garlic,Lasoon Joshi,4/6/2012,10/6/2012,6,"1,09,628",7
+Garlic,Poondu Ram,1/6/2012,10/6/2012,9,"86,357",9
+Garlic,Lassie Lasoon,3/6/2012,11/6/2012,8,"52,918",7
+Garlic,Lasoon Joshi,11/6/2012,19-06-2012,8,"49,618",7
+Garlic,Poondu Ram,8/6/2012,18-06-2012,10,"82,942",7
+Garlic,Lassie Lasoon,10/6/2012,16-06-2012,6,"1,11,837",7
+Garlic,Lasoon Joshi,18-06-2012,25-06-2012,7,"96,870",10
+Garlic,Poondu Ram,15-06-2012,24-06-2012,9,"57,679",8
+Garlic,Lassie Lasoon,17-06-2012,23-06-2012,6,"1,20,000",9
+Garlic,Lasoon Joshi,25-06-2012,2/7/2012,7,"1,10,000",10
+Garlic,Poondu Ram,22-06-2012,3/7/2012,11,"81,022",8
+Garlic,Lassie Lasoon,24-06-2012,1/7/2012,7,"85,255",9
+Garlic,Lasoon Joshi,2/7/2012,7/7/2012,5,"1,04,055",7
+Garlic,Poondu Ram,29-06-2012,10/7/2012,11,"49,943",8
+Garlic,Lassie Lasoon,1/7/2012,8/7/2012,7,"1,20,000",8
+Garlic,Lasoon Joshi,9/7/2012,16-07-2012,7,"65,717",7
+Garlic,Poondu Ram,6/7/2012,17-07-2012,11,"70,299",10
+Garlic,Lassie Lasoon,8/7/2012,14-07-2012,6,"1,20,000",10
+Garlic,Lasoon Joshi,16-07-2012,21-07-2012,5,"96,833",8
+Garlic,Poondu Ram,13-07-2012,22-07-2012,9,"79,177",10
+Garlic,Lassie Lasoon,15-07-2012,22-07-2012,7,"1,09,695",10
+Garlic,Lasoon Joshi,23-07-2012,28-07-2012,5,"1,10,000",8
+Garlic,Poondu Ram,20-07-2012,28-07-2012,8,"89,646",10
+Garlic,Lassie Lasoon,22-07-2012,30-07-2012,8,"1,20,000",9
+Garlic,Lasoon Joshi,30-07-2012,5/8/2012,6,"1,01,731",9
+Garlic,Poondu Ram,27-07-2012,6/8/2012,10,"54,072",10
+Garlic,Lassie Lasoon,29-07-2012,8/8/2012,10,"1,20,000",9
+Garlic,Lasoon Joshi,6/8/2012,14-08-2012,8,"1,00,022",10
+Garlic,Poondu Ram,3/8/2012,12/8/2012,9,"71,648",7
+Garlic,Lassie Lasoon,5/8/2012,14-08-2012,9,"1,20,000",10
+Garlic,Lasoon Joshi,13-08-2012,20-08-2012,7,"89,002",9
+Garlic,Poondu Ram,10/8/2012,20-08-2012,10,"69,062",8
+Garlic,Lassie Lasoon,12/8/2012,22-08-2012,10,"1,02,823",10
+Garlic,Lasoon Joshi,20-08-2012,28-08-2012,8,"72,632",7
+Garlic,Poondu Ram,17-08-2012,27-08-2012,10,"43,777",8
+Garlic,Lassie Lasoon,19-08-2012,29-08-2012,10,"1,20,000",7
+Garlic,Lasoon Joshi,27-08-2012,2/9/2012,6,"46,401",8
+Garlic,Poondu Ram,24-08-2012,4/9/2012,11,"44,882",8
+Garlic,Lassie Lasoon,26-08-2012,4/9/2012,9,"1,04,599",7
+Garlic,Lasoon Joshi,3/9/2012,11/9/2012,8,"39,033",9
+Garlic,Poondu Ram,31-08-2012,10/9/2012,10,"38,599",7
+Garlic,Lassie Lasoon,2/9/2012,12/9/2012,10,"1,20,000",10
+Garlic,Lasoon Joshi,10/9/2012,16-09-2012,6,"89,891",9
+Garlic,Poondu Ram,7/9/2012,17-09-2012,10,"66,930",9
+Garlic,Lassie Lasoon,9/9/2012,18-09-2012,9,"86,172",7
+Garlic,Lasoon Joshi,17-09-2012,23-09-2012,6,"89,292",9
+Garlic,Poondu Ram,14-09-2012,22-09-2012,8,"33,441",10
+Garlic,Lassie Lasoon,16-09-2012,26-09-2012,10,"79,134",8
+Garlic,Lasoon Joshi,24-09-2012,29-09-2012,5,"42,026",10
+Garlic,Poondu Ram,21-09-2012,1/10/2012,10,"77,146",10
+Garlic,Lassie Lasoon,23-09-2012,3/10/2012,10,"94,705",10
+Garlic,Lasoon Joshi,1/10/2012,9/10/2012,8,"80,855",7
+Garlic,Poondu Ram,28-09-2012,9/10/2012,11,"71,493",7
+Garlic,Lassie Lasoon,30-09-2012,8/10/2012,8,"40,350",9
+Garlic,Lasoon Joshi,8/10/2012,13-10-2012,5,"35,430",8
+Garlic,Poondu Ram,5/10/2012,15-10-2012,10,"24,526",8
+Garlic,Lassie Lasoon,7/10/2012,16-10-2012,9,"1,20,000",10
+Garlic,Lasoon Joshi,15-10-2012,23-10-2012,8,"87,138",7
+Garlic,Poondu Ram,12/10/2012,24-10-2012,12,"71,721",10
+Garlic,Lassie Lasoon,14-10-2012,21-10-2012,7,"31,102",9
+Garlic,Lasoon Joshi,22-10-2012,29-10-2012,7,"76,009",9
+Garlic,Poondu Ram,19-10-2012,29-10-2012,10,"67,368",7
+Garlic,Lassie Lasoon,21-10-2012,30-10-2012,9,"54,192",9
+Garlic,Lasoon Joshi,29-10-2012,3/11/2012,5,"97,921",8
+Garlic,Poondu Ram,26-10-2012,7/11/2012,12,"56,140",10
+Garlic,Lassie Lasoon,28-10-2012,3/11/2012,6,"1,12,421",7
+Garlic,Lasoon Joshi,5/11/2012,10/11/2012,5,"50,434",9
+Garlic,Poondu Ram,2/11/2012,10/11/2012,8,"48,744",7
+Garlic,Lassie Lasoon,4/11/2012,14-11-2012,10,"1,20,000",9
+Garlic,Lasoon Joshi,12/11/2012,18-11-2012,6,"67,216",8
+Garlic,Poondu Ram,9/11/2012,20-11-2012,11,"74,117",7
+Garlic,Lassie Lasoon,11/11/2012,20-11-2012,9,"52,077",8
+Garlic,Lasoon Joshi,19-11-2012,25-11-2012,6,"41,434",7
+Garlic,Poondu Ram,16-11-2012,28-11-2012,12,"41,661",8
+Garlic,Lassie Lasoon,18-11-2012,24-11-2012,6,"1,14,197",7
+Garlic,Lasoon Joshi,26-11-2012,4/12/2012,8,"31,247",7
+Garlic,Poondu Ram,23-11-2012,3/12/2012,10,"79,799",7
+Garlic,Lassie Lasoon,25-11-2012,5/12/2012,10,"83,656",7
+Garlic,Lasoon Joshi,3/12/2012,11/12/2012,8,"41,496",10
+Garlic,Poondu Ram,30-11-2012,11/12/2012,11,"23,504",8
+Garlic,Lassie Lasoon,2/12/2012,9/12/2012,7,"24,265",10
+Garlic,Lasoon Joshi,10/12/2012,15-12-2012,5,"95,674",7
+Garlic,Poondu Ram,7/12/2012,15-12-2012,8,"81,425",10
+Garlic,Lassie Lasoon,9/12/2012,17-12-2012,8,"51,025",8
+Garlic,Lasoon Joshi,17-12-2012,24-12-2012,7,"53,417",9
+Garlic,Poondu Ram,14-12-2012,23-12-2012,9,"67,441",10
+Garlic,Lassie Lasoon,16-12-2012,25-12-2012,9,"63,742",9
+Garlic,Lasoon Joshi,24-12-2012,30-12-2012,6,"45,091",7
+Garlic,Poondu Ram,21-12-2012,31-12-2012,10,"70,313",8
+Garlic,Lassie Lasoon,23-12-2012,30-12-2012,7,"66,258",8
+Garlic,Lasoon Joshi,31-12-2012,8/1/2013,8,"82,638",8
+Garlic,Poondu Ram,28-12-2012,5/1/2013,8,"68,632",8
+Garlic,Lassie Lasoon,30-12-2012,6/1/2013,7,"80,009",9
+Garlic,Lasoon Joshi,7/1/2013,12/1/2013,5,"1,08,147",7
+Garlic,Poondu Ram,4/1/2013,12/1/2013,8,"51,465",8
+Garlic,Lassie Lasoon,6/1/2013,16-01-2013,10,"76,705",8
+Garlic,Lasoon Joshi,14-01-2013,22-01-2013,8,"1,09,981",10
+Garlic,Poondu Ram,11/1/2013,22-01-2013,11,"69,762",7
+Garlic,Lassie Lasoon,13-01-2013,23-01-2013,10,"1,02,600",7
+Garlic,Lasoon Joshi,21-01-2013,29-01-2013,8,"52,185",7
+Garlic,Poondu Ram,18-01-2013,27-01-2013,9,"75,085",7
+Garlic,Lassie Lasoon,20-01-2013,29-01-2013,9,"65,589",7
+Garlic,Lasoon Joshi,28-01-2013,3/2/2013,6,"84,597",7
+Garlic,Poondu Ram,25-01-2013,3/2/2013,9,"88,273",7
+Garlic,Lassie Lasoon,27-01-2013,5/2/2013,9,"51,032",9
+Garlic,Lasoon Joshi,4/2/2013,12/2/2013,8,"30,960",10
+Garlic,Poondu Ram,1/2/2013,13-02-2013,12,"29,008",8
+Garlic,Lassie Lasoon,3/2/2013,10/2/2013,7,"1,20,000",7
+Garlic,Lasoon Joshi,11/2/2013,17-02-2013,6,"82,614",9
+Garlic,Poondu Ram,8/2/2013,20-02-2013,12,"89,845",7
+Garlic,Lassie Lasoon,10/2/2013,19-02-2013,9,"27,995",7
+Garlic,Lasoon Joshi,18-02-2013,25-02-2013,7,"89,261",10
+Garlic,Poondu Ram,15-02-2013,26-02-2013,11,"25,508",9
+Garlic,Lassie Lasoon,17-02-2013,23-02-2013,6,"78,544",10
+Garlic,Lasoon Joshi,25-02-2013,4/3/2013,7,"66,750",8
+Garlic,Poondu Ram,22-02-2013,2/3/2013,8,"81,912",9
+Garlic,Lassie Lasoon,24-02-2013,5/3/2013,9,"51,148",9
+Garlic,Lasoon Joshi,4/3/2013,9/3/2013,5,"45,761",10
+Garlic,Poondu Ram,1/3/2013,13-03-2013,12,"27,351",10
+Garlic,Lassie Lasoon,3/3/2013,9/3/2013,6,"1,20,000",9
+Garlic,Lasoon Joshi,11/3/2013,17-03-2013,6,"85,271",9
+Garlic,Poondu Ram,8/3/2013,20-03-2013,12,"27,352",9
+Garlic,Lassie Lasoon,10/3/2013,19-03-2013,9,"94,753",7
+Garlic,Lasoon Joshi,18-03-2013,24-03-2013,6,"28,541",10
+Garlic,Poondu Ram,15-03-2013,27-03-2013,12,"33,167",10
+Garlic,Lassie Lasoon,17-03-2013,24-03-2013,7,"1,20,000",7
+Garlic,Lasoon Joshi,25-03-2013,1/4/2013,7,"54,062",8
+Garlic,Poondu Ram,22-03-2013,3/4/2013,12,"55,937",10
+Garlic,Lassie Lasoon,24-03-2013,30-03-2013,6,"78,243",10
+Garlic,Lasoon Joshi,1/4/2013,7/4/2013,6,"66,440",9
+Garlic,Poondu Ram,29-03-2013,10/4/2013,12,"83,064",10
+Garlic,Lassie Lasoon,31-03-2013,10/4/2013,10,"62,874",10
+Garlic,Lasoon Joshi,8/4/2013,15-04-2013,7,"98,419",10
+Garlic,Poondu Ram,5/4/2013,17-04-2013,12,"61,319",9
+Garlic,Lassie Lasoon,7/4/2013,15-04-2013,8,"53,263",8
+Garlic,Lasoon Joshi,15-04-2013,23-04-2013,8,"65,062",10
+Garlic,Poondu Ram,12/4/2013,20-04-2013,8,"23,318",7
+Garlic,Lassie Lasoon,14-04-2013,20-04-2013,6,"63,034",9
+Garlic,Lasoon Joshi,22-04-2013,30-04-2013,8,"67,803",7
+Garlic,Poondu Ram,19-04-2013,28-04-2013,9,"38,462",9
+Garlic,Lassie Lasoon,21-04-2013,30-04-2013,9,"1,20,000",9
+Garlic,Lasoon Joshi,29-04-2013,7/5/2013,8,"89,498",9
+Garlic,Poondu Ram,26-04-2013,6/5/2013,10,"66,374",10
+Garlic,Lassie Lasoon,28-04-2013,7/5/2013,9,"52,871",10
+Garlic,Lasoon Joshi,6/5/2013,12/5/2013,6,"79,183",9
+Garlic,Poondu Ram,3/5/2013,14-05-2013,11,"85,230",10
+Garlic,Lassie Lasoon,5/5/2013,14-05-2013,9,"25,749",8
+Garlic,Lasoon Joshi,13-05-2013,21-05-2013,8,"88,638",7
+Garlic,Poondu Ram,10/5/2013,19-05-2013,9,"56,965",7
+Garlic,Lassie Lasoon,12/5/2013,21-05-2013,9,"64,529",8
+Garlic,Lasoon Joshi,20-05-2013,26-05-2013,6,"52,419",10
+Garlic,Poondu Ram,17-05-2013,29-05-2013,12,"56,041",10
+Garlic,Lassie Lasoon,19-05-2013,25-05-2013,6,"1,20,000",10
+Garlic,Lasoon Joshi,27-05-2013,4/6/2013,8,"72,409",8
+Garlic,Poondu Ram,24-05-2013,4/6/2013,11,"85,285",7
+Garlic,Lassie Lasoon,26-05-2013,5/6/2013,10,"36,757",8
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Item,Supplier,Order made On,Order received On,Lead Time,Quantity,Cost/unit
+Oil,Teli Belly,30-12-2011,1/1/2012,2,"2,674",100
+Oil,Tel-Ghee,27-12-2011,1/1/2012,5,"2,399",106
+Oil,AirTeli,29-12-2011,1/1/2012,3,"5,070",101
+Oil,Teli Belly,6/1/2012,9/1/2012,3,"1,322",104
+Oil,Tel-Ghee,3/1/2012,8/1/2012,5,"1,945",105
+Oil,AirTeli,5/1/2012,11/1/2012,6,"1,578",106
+Oil,Teli Belly,13-01-2012,16-01-2012,3,"5,337",103
+Oil,Tel-Ghee,10/1/2012,17-01-2012,7,"2,742",102
+Oil,AirTeli,12/1/2012,17-01-2012,5,"2,739",101
+Oil,Teli Belly,20-01-2012,26-01-2012,6,"5,572",101
+Oil,Tel-Ghee,17-01-2012,21-01-2012,4,"6,537",106
+Oil,AirTeli,19-01-2012,26-01-2012,7,"1,840",106
+Oil,Teli Belly,27-01-2012,30-01-2012,3,"3,682",104
+Oil,Tel-Ghee,24-01-2012,30-01-2012,6,"2,582",100
+Oil,AirTeli,26-01-2012,1/2/2012,6,"3,646",103
+Oil,Teli Belly,3/2/2012,9/2/2012,6,"3,064",100
+Oil,Tel-Ghee,31-01-2012,4/2/2012,4,"2,818",100
+Oil,AirTeli,2/2/2012,8/2/2012,6,"3,977",104
+Oil,Teli Belly,10/2/2012,15-02-2012,5,"1,890",105
+Oil,Tel-Ghee,7/2/2012,11/2/2012,4,"2,899",101
+Oil,AirTeli,9/2/2012,12/2/2012,3,"5,818",101
+Oil,Teli Belly,17-02-2012,19-02-2012,2,"3,909",100
+Oil,Tel-Ghee,14-02-2012,19-02-2012,5,"2,645",105
+Oil,AirTeli,16-02-2012,22-02-2012,6,"3,151",101
+Oil,Teli Belly,24-02-2012,29-02-2012,5,"3,129",101
+Oil,Tel-Ghee,21-02-2012,26-02-2012,5,"4,508",100
+Oil,AirTeli,23-02-2012,26-02-2012,3,"3,430",101
+Oil,Teli Belly,2/3/2012,5/3/2012,3,"3,391",100
+Oil,Tel-Ghee,28-02-2012,6/3/2012,7,"4,884",104
+Oil,AirTeli,1/3/2012,4/3/2012,3,"2,277",106
+Oil,Teli Belly,9/3/2012,15-03-2012,6,"4,491",100
+Oil,Tel-Ghee,6/3/2012,13-03-2012,7,"3,924",102
+Oil,AirTeli,8/3/2012,15-03-2012,7,"2,605",102
+Oil,Teli Belly,16-03-2012,22-03-2012,6,"2,139",103
+Oil,Tel-Ghee,13-03-2012,18-03-2012,5,"2,058",106
+Oil,AirTeli,15-03-2012,22-03-2012,7,"7,158",100
+Oil,Teli Belly,23-03-2012,27-03-2012,4,"2,789",105
+Oil,Tel-Ghee,20-03-2012,26-03-2012,6,"4,595",105
+Oil,AirTeli,22-03-2012,28-03-2012,6,"4,100",104
+Oil,Teli Belly,30-03-2012,5/4/2012,6,"3,234",103
+Oil,Tel-Ghee,27-03-2012,31-03-2012,4,"5,180",102
+Oil,AirTeli,29-03-2012,3/4/2012,5,"2,547",101
+Oil,Teli Belly,6/4/2012,10/4/2012,4,"4,684",100
+Oil,Tel-Ghee,3/4/2012,10/4/2012,7,"2,922",105
+Oil,AirTeli,5/4/2012,12/4/2012,7,"2,294",105
+Oil,Teli Belly,13-04-2012,19-04-2012,6,"1,783",100
+Oil,Tel-Ghee,10/4/2012,15-04-2012,5,"1,825",102
+Oil,AirTeli,12/4/2012,15-04-2012,3,"6,780",103
+Oil,Teli Belly,20-04-2012,26-04-2012,6,"5,460",100
+Oil,Tel-Ghee,17-04-2012,22-04-2012,5,"3,810",105
+Oil,AirTeli,19-04-2012,22-04-2012,3,"1,738",101
+Oil,Teli Belly,27-04-2012,3/5/2012,6,"2,832",105
+Oil,Tel-Ghee,24-04-2012,28-04-2012,4,"3,856",103
+Oil,AirTeli,26-04-2012,2/5/2012,6,"1,986",104
+Oil,Teli Belly,4/5/2012,10/5/2012,6,"4,130",102
+Oil,Tel-Ghee,1/5/2012,6/5/2012,5,"2,334",101
+Oil,AirTeli,3/5/2012,6/5/2012,3,"3,253",103
+Oil,Teli Belly,11/5/2012,14-05-2012,3,"4,753",106
+Oil,Tel-Ghee,8/5/2012,15-05-2012,7,"2,742",101
+Oil,AirTeli,10/5/2012,15-05-2012,5,"1,861",104
+Oil,Teli Belly,18-05-2012,23-05-2012,5,"3,591",101
+Oil,Tel-Ghee,15-05-2012,21-05-2012,6,"3,190",106
+Oil,AirTeli,17-05-2012,22-05-2012,5,"2,782",103
+Oil,Teli Belly,25-05-2012,31-05-2012,6,"1,725",102
+Oil,Tel-Ghee,22-05-2012,28-05-2012,6,"3,099",106
+Oil,AirTeli,24-05-2012,29-05-2012,5,"4,409",106
+Oil,Teli Belly,1/6/2012,6/6/2012,5,"4,593",102
+Oil,Tel-Ghee,29-05-2012,3/6/2012,5,"2,745",103
+Oil,AirTeli,31-05-2012,4/6/2012,4,"2,848",102
+Oil,Teli Belly,8/6/2012,14-06-2012,6,"2,094",102
+Oil,Tel-Ghee,5/6/2012,10/6/2012,5,"4,519",100
+Oil,AirTeli,7/6/2012,12/6/2012,5,"4,801",104
+Oil,Teli Belly,15-06-2012,20-06-2012,5,"2,906",105
+Oil,Tel-Ghee,12/6/2012,17-06-2012,5,"4,719",105
+Oil,AirTeli,14-06-2012,18-06-2012,4,"4,611",101
+Oil,Teli Belly,22-06-2012,25-06-2012,3,"2,027",105
+Oil,Tel-Ghee,19-06-2012,25-06-2012,6,"4,439",102
+Oil,AirTeli,21-06-2012,28-06-2012,7,"7,500",103
+Oil,Teli Belly,29-06-2012,5/7/2012,6,"7,371",101
+Oil,Tel-Ghee,26-06-2012,2/7/2012,6,"5,008",101
+Oil,AirTeli,28-06-2012,3/7/2012,5,"3,365",104
+Oil,Teli Belly,6/7/2012,10/7/2012,4,"1,297",101
+Oil,Tel-Ghee,3/7/2012,9/7/2012,6,"5,886",100
+Oil,AirTeli,5/7/2012,10/7/2012,5,"7,500",100
+Oil,Teli Belly,13-07-2012,16-07-2012,3,"2,916",105
+Oil,Tel-Ghee,10/7/2012,15-07-2012,5,"5,437",100
+Oil,AirTeli,12/7/2012,16-07-2012,4,"6,582",102
+Oil,Teli Belly,20-07-2012,24-07-2012,4,"2,672",104
+Oil,Tel-Ghee,17-07-2012,21-07-2012,4,"4,909",103
+Oil,AirTeli,19-07-2012,23-07-2012,4,"7,500",106
+Oil,Teli Belly,27-07-2012,1/8/2012,5,"7,459",106
+Oil,Tel-Ghee,24-07-2012,30-07-2012,6,"6,641",105
+Oil,AirTeli,26-07-2012,31-07-2012,5,"2,181",100
+Oil,Teli Belly,3/8/2012,9/8/2012,6,"3,806",103
+Oil,Tel-Ghee,31-07-2012,6/8/2012,6,"6,360",100
+Oil,AirTeli,2/8/2012,9/8/2012,7,"5,011",105
+Oil,Teli Belly,10/8/2012,12/8/2012,2,"6,131",100
+Oil,Tel-Ghee,7/8/2012,12/8/2012,5,"1,381",105
+Oil,AirTeli,9/8/2012,13-08-2012,4,"7,500",103
+Oil,Teli Belly,17-08-2012,22-08-2012,5,"4,244",102
+Oil,Tel-Ghee,14-08-2012,21-08-2012,7,"2,411",104
+Oil,AirTeli,16-08-2012,20-08-2012,4,"6,321",103
+Oil,Teli Belly,24-08-2012,30-08-2012,6,"5,225",106
+Oil,Tel-Ghee,21-08-2012,28-08-2012,7,"3,261",104
+Oil,AirTeli,23-08-2012,28-08-2012,5,"3,527",101
+Oil,Teli Belly,31-08-2012,5/9/2012,5,"2,592",101
+Oil,Tel-Ghee,28-08-2012,3/9/2012,6,"4,761",104
+Oil,AirTeli,30-08-2012,6/9/2012,7,"2,429",101
+Oil,Teli Belly,7/9/2012,9/9/2012,2,"3,927",101
+Oil,Tel-Ghee,4/9/2012,11/9/2012,7,"2,569",102
+Oil,AirTeli,6/9/2012,9/9/2012,3,"5,372",106
+Oil,Teli Belly,14-09-2012,16-09-2012,2,"3,547",101
+Oil,Tel-Ghee,11/9/2012,16-09-2012,5,"4,523",102
+Oil,AirTeli,13-09-2012,19-09-2012,6,"3,808",104
+Oil,Teli Belly,21-09-2012,23-09-2012,2,"4,381",100
+Oil,Tel-Ghee,18-09-2012,24-09-2012,6,"4,808",101
+Oil,AirTeli,20-09-2012,25-09-2012,5,"1,347",102
+Oil,Teli Belly,28-09-2012,2/10/2012,4,"3,085",103
+Oil,Tel-Ghee,25-09-2012,1/10/2012,6,"1,585",103
+Oil,AirTeli,27-09-2012,1/10/2012,4,"5,505",103
+Oil,Teli Belly,5/10/2012,7/10/2012,2,"2,186",106
+Oil,Tel-Ghee,2/10/2012,8/10/2012,6,"3,253",103
+Oil,AirTeli,4/10/2012,11/10/2012,7,"3,832",103
+Oil,Teli Belly,12/10/2012,17-10-2012,5,"4,526",101
+Oil,Tel-Ghee,9/10/2012,14-10-2012,5,"4,960",105
+Oil,AirTeli,11/10/2012,15-10-2012,4,888,105
+Oil,Teli Belly,19-10-2012,21-10-2012,2,"4,631",105
+Oil,Tel-Ghee,16-10-2012,20-10-2012,4,"1,184",105
+Oil,AirTeli,18-10-2012,23-10-2012,5,"3,908",100
+Oil,Teli Belly,26-10-2012,31-10-2012,5,"3,030",104
+Oil,Tel-Ghee,23-10-2012,28-10-2012,5,"1,742",104
+Oil,AirTeli,25-10-2012,29-10-2012,4,"4,664",104
+Oil,Teli Belly,2/11/2012,4/11/2012,2,"6,891",106
+Oil,Tel-Ghee,30-10-2012,3/11/2012,4,"4,644",104
+Oil,AirTeli,1/11/2012,6/11/2012,5,"2,373",106
+Oil,Teli Belly,9/11/2012,14-11-2012,5,"4,962",105
+Oil,Tel-Ghee,6/11/2012,13-11-2012,7,"3,094",100
+Oil,AirTeli,8/11/2012,14-11-2012,6,"2,560",102
+Oil,Teli Belly,16-11-2012,20-11-2012,4,"3,954",106
+Oil,Tel-Ghee,13-11-2012,17-11-2012,4,"3,616",101
+Oil,AirTeli,15-11-2012,21-11-2012,6,"2,412",106
+Oil,Teli Belly,23-11-2012,27-11-2012,4,"2,537",106
+Oil,Tel-Ghee,20-11-2012,24-11-2012,4,"2,260",105
+Oil,AirTeli,22-11-2012,29-11-2012,7,"5,031",105
+Oil,Teli Belly,30-11-2012,2/12/2012,2,"4,117",103
+Oil,Tel-Ghee,27-11-2012,4/12/2012,7,"2,235",105
+Oil,AirTeli,29-11-2012,5/12/2012,6,"3,296",106
+Oil,Teli Belly,7/12/2012,13-12-2012,6,"1,894",102
+Oil,Tel-Ghee,4/12/2012,11/12/2012,7,"1,732",101
+Oil,AirTeli,6/12/2012,10/12/2012,4,"1,526",102
+Oil,Teli Belly,14-12-2012,18-12-2012,4,"4,914",105
+Oil,Tel-Ghee,11/12/2012,16-12-2012,5,"1,492",104
+Oil,AirTeli,13-12-2012,16-12-2012,3,"4,554",103
+Oil,Teli Belly,21-12-2012,23-12-2012,2,"2,041",105
+Oil,Tel-Ghee,18-12-2012,24-12-2012,6,"1,680",106
+Oil,AirTeli,20-12-2012,23-12-2012,3,"5,635",105
+Oil,Teli Belly,28-12-2012,1/1/2013,4,"2,530",105
+Oil,Tel-Ghee,25-12-2012,29-12-2012,4,"4,032",100
+Oil,AirTeli,27-12-2012,1/1/2013,5,"3,167",106
+Oil,Teli Belly,4/1/2013,8/1/2013,4,"3,418",103
+Oil,Tel-Ghee,1/1/2013,8/1/2013,7,"2,646",103
+Oil,AirTeli,3/1/2013,10/1/2013,7,"5,186",100
+Oil,Teli Belly,11/1/2013,17-01-2013,6,"4,750",100
+Oil,Tel-Ghee,8/1/2013,12/1/2013,4,"2,835",104
+Oil,AirTeli,10/1/2013,13-01-2013,3,"3,941",101
+Oil,Teli Belly,18-01-2013,24-01-2013,6,"2,330",101
+Oil,Tel-Ghee,15-01-2013,19-01-2013,4,"4,923",100
+Oil,AirTeli,17-01-2013,22-01-2013,5,"6,763",101
+Oil,Teli Belly,25-01-2013,31-01-2013,6,"2,060",103
+Oil,Tel-Ghee,22-01-2013,29-01-2013,7,"3,620",100
+Oil,AirTeli,24-01-2013,31-01-2013,7,"3,501",100
+Oil,Teli Belly,1/2/2013,3/2/2013,2,"2,376",104
+Oil,Tel-Ghee,29-01-2013,4/2/2013,6,"4,188",102
+Oil,AirTeli,31-01-2013,5/2/2013,5,"4,650",102
+Oil,Teli Belly,8/2/2013,12/2/2013,4,"3,839",100
+Oil,Tel-Ghee,5/2/2013,10/2/2013,5,"1,538",104
+Oil,AirTeli,7/2/2013,13-02-2013,6,"4,909",101
+Oil,Teli Belly,15-02-2013,21-02-2013,6,"2,354",101
+Oil,Tel-Ghee,12/2/2013,17-02-2013,5,"2,652",104
+Oil,AirTeli,14-02-2013,19-02-2013,5,"5,280",105
+Oil,Teli Belly,22-02-2013,24-02-2013,2,"3,074",102
+Oil,Tel-Ghee,19-02-2013,26-02-2013,7,"1,705",106
+Oil,AirTeli,21-02-2013,28-02-2013,7,"5,015",102
+Oil,Teli Belly,1/3/2013,6/3/2013,5,"1,439",101
+Oil,Tel-Ghee,26-02-2013,3/3/2013,5,"4,180",103
+Oil,AirTeli,28-02-2013,4/3/2013,4,"4,260",105
+Oil,Teli Belly,8/3/2013,12/3/2013,4,"4,702",106
+Oil,Tel-Ghee,5/3/2013,10/3/2013,5,"4,237",105
+Oil,AirTeli,7/3/2013,12/3/2013,5,"2,086",102
+Oil,Teli Belly,15-03-2013,21-03-2013,6,"3,992",106
+Oil,Tel-Ghee,12/3/2013,17-03-2013,5,"2,078",100
+Oil,AirTeli,14-03-2013,17-03-2013,3,"4,265",105
+Oil,Teli Belly,22-03-2013,25-03-2013,3,"4,606",105
+Oil,Tel-Ghee,19-03-2013,26-03-2013,7,"4,170",105
+Oil,AirTeli,21-03-2013,28-03-2013,7,"2,334",100
+Oil,Teli Belly,29-03-2013,3/4/2013,5,"2,274",104
+Oil,Tel-Ghee,26-03-2013,31-03-2013,5,"1,813",101
+Oil,AirTeli,28-03-2013,2/4/2013,5,"5,739",103
+Oil,Teli Belly,5/4/2013,9/4/2013,4,"2,300",105
+Oil,Tel-Ghee,2/4/2013,9/4/2013,7,"1,183",102
+Oil,AirTeli,4/4/2013,8/4/2013,4,"7,396",100
+Oil,Teli Belly,12/4/2013,14-04-2013,2,"3,741",101
+Oil,Tel-Ghee,9/4/2013,16-04-2013,7,"1,944",103
+Oil,AirTeli,11/4/2013,16-04-2013,5,"5,028",106
+Oil,Teli Belly,19-04-2013,24-04-2013,5,"2,095",106
+Oil,Tel-Ghee,16-04-2013,20-04-2013,4,"2,290",106
+Oil,AirTeli,18-04-2013,25-04-2013,7,"3,227",103
+Oil,Teli Belly,26-04-2013,29-04-2013,3,"3,902",100
+Oil,Tel-Ghee,23-04-2013,28-04-2013,5,"3,935",100
+Oil,AirTeli,25-04-2013,30-04-2013,5,"3,831",106
+Oil,Teli Belly,3/5/2013,8/5/2013,5,"1,834",102
+Oil,Tel-Ghee,30-04-2013,5/5/2013,5,"1,918",102
+Oil,AirTeli,2/5/2013,5/5/2013,3,"6,367",101
+Oil,Teli Belly,10/5/2013,15-05-2013,5,"4,294",105
+Oil,Tel-Ghee,7/5/2013,13-05-2013,6,"2,475",106
+Oil,AirTeli,9/5/2013,12/5/2013,3,"2,641",102
+Oil,Teli Belly,17-05-2013,23-05-2013,6,"4,648",102
+Oil,Tel-Ghee,14-05-2013,21-05-2013,7,"1,966",104
+Oil,AirTeli,16-05-2013,23-05-2013,7,"3,965",101
+Oil,Teli Belly,24-05-2013,28-05-2013,4,"3,406",101
+Oil,Tel-Ghee,21-05-2013,28-05-2013,7,"5,228",104
+Oil,AirTeli,23-05-2013,29-05-2013,6,"2,452",104
+Oil,Teli Belly,31-05-2013,4/6/2013,4,"3,519",100
+Oil,Tel-Ghee,28-05-2013,2/6/2013,5,"2,757",103
+Oil,AirTeli,30-05-2013,2/6/2013,3,"3,086",103
